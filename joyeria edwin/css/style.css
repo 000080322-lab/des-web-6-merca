@@ -29,6 +29,7 @@ main{
 
 .caja{
     background-color: #eee6e2e5;
+    border-radius: 15px;
     padding: 20px;
     margin-top: 100px;
     margin-bottom: 100px;
@@ -54,12 +55,17 @@ footer{
     align-items: flex-start;
 }*/
 .flexbox-main{
+     background-color: #fdf663d5;
     display: flex;
     gap: 10px;
     text-align: left;
     padding: 30px;
-    background-color: #fdf663d5;
-}
+    margin-top: 20px;
+   
+     border-radius: 15px;
+    border:#f8f7f2f7
+   
+} 
 
 .flexbox-main-2{
     display: flex;
